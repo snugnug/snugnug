@@ -1,5 +1,7 @@
-# Logo
+# Credit
+> Alternative Title: List of awesome people providing the SNUG with awesome stuff under awesome terms
 
+## Logo
 All Credit for the currently used Logo goes to [@yttrinis](https://github.com/yttrinis/).
 
 The Logo is licensed under the [CC-By-ND](./CC-By-ND_v4.0.txt) License.
