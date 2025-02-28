@@ -7,6 +7,4 @@
 > ...etc
 
 # Credit
-For Credit and licensing information, please see the following Files:
-
-[The Snug Logo by Yttrinis](./credit/Logo.md)
+Please see [the dedicated file](./assets/README.md)
