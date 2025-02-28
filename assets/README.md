@@ -1,5 +1,8 @@
+[comment]: <> (should it ever occur, that the Credit heading isnt the only toplevel heading in this file, edit the readme in the repository root accordingly)
+
 # Credit
 > Alternative Title: List of awesome people providing the SNUG with awesome stuff under awesome terms
+
 
 ## Logo
 All Credit for the currently used Logo goes to [@yttrinis](https://github.com/yttrinis/).
